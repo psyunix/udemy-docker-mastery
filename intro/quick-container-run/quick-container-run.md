@@ -1,7 +1,5 @@
 # Play with Docker 
 
-# mcvetic test
-
 > Nav: [Back to Intro Lectures](../README.md)
 
 A quick way to start a container before we get into the details.
